@@ -169,6 +169,18 @@ const colors = {
             body { 
               zoom: .75; 
             } 
-           }
-        </style>`
+    
+        </style>
+        </head>
+        
+        <body> 
+        
+        </body>
+        
+
+
+        
+        `
+
+    
           }
